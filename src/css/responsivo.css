@@ -1,0 +1,11 @@
+@media (max-width: 430px){
+    body{
+        background-size: 8000px;
+    }
+    .cartao{
+        justify-content: left;
+    }
+    .srcts{
+        justify-content: left;
+    }
+}

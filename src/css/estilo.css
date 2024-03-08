@@ -1,0 +1,87 @@
+body{
+    background: url(../img/background.jpg);
+    background-attachment: fixed;
+    background-size: 156%;
+    background-attachment: fixed;
+}
+.menu{
+    font-family:'Diploma';
+    font-size: 170px;
+    position: absolute;
+    left: 800px;
+    top: 100px;
+    right: 550px;
+}
+.descricao{
+    font-family:'Diploma';
+    display: flex;
+    justify-content: center;
+}
+.cartao{
+    display: flex;
+    justify-content: center;
+    max-width: -100px;
+}
+.informacoes h2{
+    font-family:'Pricedown Bl' ;
+    font-size: 60px;
+    color: black;
+}
+.informacoes p{
+    font-family:'Diploma';
+    font-size: 40px;
+}
+.Plataformas{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    }
+    
+    .ps2{
+        width: 200px; 
+    }
+    .ps3{
+        width: 200px;
+    }
+    .xbox360{
+        width: 300px;
+    }
+    .xbox{
+        width: 300px;
+    }
+    .pcrom{
+         width: 110px;
+    }
+    .steam{
+        width: 180px;
+    }
+   .android{
+      width: 200px;
+   }
+   .iphone{
+    width: 200px;
+   }
+.Screenshots p{
+    font-family: 'Arial Black';
+    font-size: 30px;
+    font-weight: 500;
+    display: flex;
+    color: #e8e8e8;
+    justify-content: center;
+}
+.srcts{
+    display: grid;
+    justify-content: center;
+    gap: 30px;
+}
+    
+.audio{
+    display: flex;
+    justify-content: center;
+}
+h3{
+    font-family:'Arial Black' ;
+    font-size: 30px;
+    display: grid;
+    justify-content: center;
+}
